@@ -5,5 +5,9 @@ int y=3;
 
 int result =x+y;
 
-public void thisIsANewMethod(){}
+
+public void thisIsANewMethod(){
 Out.println("Hallo");
+
+x = y +3;
+}
