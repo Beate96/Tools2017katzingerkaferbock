@@ -9,9 +9,12 @@ int result =x+y;
 public void thisIsANewMethod(){
 Out.println("Hallo");
 
+
 x = y + 3;
 }
 
 public void PrintResult(){
 Out.println(result);
+x = y +3;
+Out.println("fix the Bug!");
 }
